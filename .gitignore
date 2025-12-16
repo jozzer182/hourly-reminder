@@ -1,0 +1,86 @@
+# ==========================================
+# Hourly Reminder - Git Ignore
+# ==========================================
+
+# ---------- Android App (not included in this repo) ----------
+android_app/
+
+# ---------- macOS ----------
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ---------- Xcode ----------
+## Build generated
+build/
+DerivedData/
+
+## User data - MUST exclude these
+xcuserdata/
+**/*.xcuserdata/
+**/xcuserdata/
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+## Package Manager
+*.xcworkspace/xcuserdata/
+
+## Xcode Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+.swiftpm/
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# ---------- CocoaPods ----------
+Pods/
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+
+# ---------- Carthage ----------
+Carthage/Build/
+Carthage/Checkouts/
+
+# ---------- Temporary Files ----------
+*.zip
+*.dmg
+*.icon
+*.orig
+
+# ---------- IDE ----------
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- Project Specific (temporary/raw assets) ----------
+ios_app/AppIcons.zip
+ios_app/*.dmg
+ios_app/*.png
+ios_app/IconCompserFile.icon/
+ios_app/Icons/
+
+# ---------- Archives ----------
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ---------- Secrets ----------
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+AuthKey_*.p8

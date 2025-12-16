@@ -1,0 +1,141 @@
+/* 
+  Localizable.strings (English)
+  Hourly Reminder
+  
+  English localization - Base language
+*/
+
+// Tab titles
+"Reminders" = "Reminders";
+"Alarms" = "Alarms";
+"Settings" = "Settings";
+
+// Navigation titles
+"Hourly Reminders" = "Hourly Reminders";
+"Custom Alarms" = "Custom Alarms";
+
+// Empty states
+"No Reminders" = "No Reminders";
+"No Alarms" = "No Alarms";
+"Tap + to add hourly reminders" = "Tap + to add hourly reminders";
+"Tap + to add a custom alarm" = "Tap + to add a custom alarm";
+"Add Reminder" = "Add Reminder";
+"Add Alarm" = "Add Alarm";
+
+// Weekdays
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+
+"M" = "M";
+"T" = "T";
+"W" = "W";
+"F" = "F";
+"S" = "S";
+
+"Monday" = "Monday";
+"Tuesday" = "Tuesday";
+"Wednesday" = "Wednesday";
+"Thursday" = "Thursday";
+"Friday" = "Friday";
+"Saturday" = "Saturday";
+"Sunday" = "Sunday";
+
+"Weekdays" = "Weekdays";
+"Weekend" = "Weekend";
+"Everyday" = "Everyday";
+"Once" = "Once";
+"Specific days" = "Specific days";
+
+// Time
+"AM" = "AM";
+"PM" = "PM";
+"Time" = "Time";
+"Hours" = "Hours";
+
+// Intervals
+"Hourly" = "Hourly";
+"Every 15 min" = "Every 15 min";
+"Every 30 min" = "Every 30 min";
+
+// Hour grid
+"Work" = "Work";
+"All" = "All";
+"Clear" = "Clear";
+
+// Alarm actions
+"Snooze" = "Snooze";
+"Dismiss" = "Dismiss";
+"Snoozed" = "Snoozed";
+"Alarm" = "Alarm";
+"Reminder" = "Reminder";
+"Edit Alarm" = "Edit Alarm";
+"Cancel" = "Cancel";
+"Save" = "Save";
+
+// Alarm detail
+"Repeat" = "Repeat";
+"Repeat on weekdays" = "Repeat on weekdays";
+"Ringtone" = "Ringtone";
+"Beep" = "Beep";
+"Speech" = "Speech";
+
+// Settings sections
+"Sounds" = "Sounds";
+"Reminders" = "Reminders";
+"Alarms" = "Alarms";
+"Speech" = "Speech";
+"Haptics" = "Haptics";
+"Silence" = "Silence";
+"Application" = "Application";
+"About" = "About";
+
+// Settings - Sounds
+"Volume" = "Volume";
+"Increasing Volume" = "Increasing Volume";
+"Off" = "Off";
+
+// Settings - Reminders
+"Wake Up Screen" = "Wake Up Screen";
+"Exact on Time" = "Exact on Time";
+
+// Settings - Alarms
+"Snooze Duration" = "Snooze Duration";
+"Auto Snooze After" = "Auto Snooze After";
+
+// Settings - Speech
+"Speak Time" = "Speak Time";
+"Speak AM/PM" = "Speak AM/PM";
+
+// Settings - Haptics
+"Vibrate" = "Vibrate";
+
+// Settings - Silence
+"Silence During Calls" = "Silence During Calls";
+"Silence During Music" = "Silence During Music";
+
+// Settings - Application
+"Week Starts On" = "Week Starts On";
+"Notifications" = "Notifications";
+"Enabled" = "Enabled";
+"Enable" = "Enable";
+"Theme" = "Theme";
+"Light" = "Light";
+"Dark" = "Dark";
+"System" = "System";
+
+// TTS time speech
+"%d o'clock" = "%d o'clock";
+"%d o'clock AM" = "%d o'clock AM";
+"%d o'clock PM" = "%d o'clock PM";
+"Time is %d %@ AM" = "Time is %d %@ AM";
+"Time is %d %@ PM" = "Time is %d %@ PM";
+"Time is %d %@" = "Time is %d %@";
+"%d hundred hours" = "%d hundred hours";
+
+// No hours selected
+"No hours selected" = "No hours selected";

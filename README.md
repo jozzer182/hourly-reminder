@@ -22,18 +22,11 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="media/screenshot_A.png" width="180" alt="Main Screen"></td>
-      <td align="center"><img src="media/screenshot_B.png" width="180" alt="Alarm List"></td>
-      <td align="center"><img src="media/screenshot_C.png" width="180" alt="Settings"></td>
-      <td align="center"><img src="media/screenshot_D.png" width="180" alt="Theme Options"></td>
-      <td align="center"><img src="media/screenshot_E.png" width="180" alt="Notifications"></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Main Screen</b></td>
-      <td align="center"><b>Alarm List</b></td>
-      <td align="center"><b>Settings</b></td>
-      <td align="center"><b>Themes</b></td>
-      <td align="center"><b>Notifications</b></td>
+      <td align="center"><img src="media/screenshot_A.png" width="180" alt="Screenshot"></td>
+      <td align="center"><img src="media/screenshot_B.png" width="180" alt="Screenshot"></td>
+      <td align="center"><img src="media/screenshot_C.png" width="180" alt="Screenshot"></td>
+      <td align="center"><img src="media/screenshot_D.png" width="180" alt="Screenshot"></td>
+      <td align="center"><img src="media/screenshot_E.png" width="180" alt="Screenshot"></td>
     </tr>
   </table>
 </div>

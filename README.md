@@ -12,6 +12,14 @@
     <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
   </p>
   
+  <br>
+  
+  <a href="https://apps.apple.com/app/id6756615211">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50">
+  </a>
+  
+  <br><br>
+  
   <p><em>Perfect for staying aware of time without constantly checking your device</em></p>
 </div>
 
